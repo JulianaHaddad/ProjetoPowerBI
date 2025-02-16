@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Localiza Car"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a39d4708-6f8f-4932-83f8-cd5ebb392247"
+  }
+}

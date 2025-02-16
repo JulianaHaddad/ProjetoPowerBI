@@ -1,0 +1,100 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 503,
+            "y": 989.41174280345649
+          },
+          "nodeIndex": "Cliente",
+          "nodeLineageTag": "73a8f3bd-9642-49a2-9b8e-09877c30ec4a",
+          "size": {
+            "height": 467,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "Marca",
+          "nodeLineageTag": "ee0b8860-5d87-4e20-b2b9-e33ba52f9e22",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 484
+          },
+          "nodeIndex": "Veículo",
+          "nodeLineageTag": "e0a2dbef-92d5-4e1d-b1b3-7ffe185b0dd0",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 488.55804017781611,
+            "y": 0
+          },
+          "nodeIndex": "Calendario",
+          "nodeLineageTag": "e60f8f0d-085c-4d9f-b222-bf23b1bdeae5",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 932
+          },
+          "nodeIndex": "Locação de Veículos",
+          "nodeLineageTag": "7c86a7a8-35e7-4e8e-9022-866c96f4c791",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 484.18269278110961,
+            "y": 407.20587140172825
+          },
+          "nodeIndex": "lc_aluguel",
+          "nodeLineageTag": "5422f4ea-c2e0-4668-9a64-84a7d047d0c4",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}
