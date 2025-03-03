@@ -1,4 +1,7 @@
 🚗 Projeto Locadora de Veículos – Power BI
+
+![Captura de tela 2025-03-03 145427](https://github.com/user-attachments/assets/f5d6c608-ec23-442f-a1cd-9f8abf2c9536)
+
 Este repositório contém dashboards interativos desenvolvidos no Power BI para o Projeto Locadora de Veículos. O objetivo é oferecer uma análise detalhada dos aluguéis de veículos, facilitando a gestão da frota e proporcionando insights estratégicos para a empresa.
 
 📌 Descrição
